@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>WeakReferenceMessageCenterTest.强引用委托</AssemblyName>
+    <RootNamespace>WeakReferenceMessageCenterTest.强引用委托</RootNamespace>
+  </PropertyGroup>
+
+</Project>
